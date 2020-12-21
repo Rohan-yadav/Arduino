@@ -1,0 +1,4 @@
+As the code is a bit longer and for better understanding I will post the source code of the program in sections with description for each section. And at the end of this article I will post the complete source code.
+I will use the UTFT and URTouch libraries made by Henning Karlsen. Here I would like to say thanks to him for the incredible work he has done. The libraries enable really easy use of the TFT Screens, and they work with many different TFT screens sizes, shields and controllers. You can download these libraries from his website, RinkyDinkElectronics.com and also find a lot of demo examples and detailed documentation of how to use them.
+
+After we include the libraries we need to create UTFT and URTouch objects. The parameters of these objects depends on the model of the TFT Screen and Shield and these details can be also found in the documentation of the libraries.
